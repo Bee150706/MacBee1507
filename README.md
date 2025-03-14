@@ -1,5 +1,5 @@
+Hey is me, Bee!
+I'm new at Pygame
+Need to train harder 
 
-<!---
-MacBee1507/MacBee1507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
